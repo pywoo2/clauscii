@@ -27,54 +27,6 @@ The blank lines INSIDE the code block before and after the art are critical — 
 ## Gallery
 
 ```
-  ~ ngl judging your code rn ~
-
-          ╭|、
-        (˚ˎ 。7
-         |、˜〵
-         じしˍ,)ノ
-```
-
-```
-  ~ cat /dev/null > your_bugs ~
-
-         /\_/\
-        ( -.- ) zzZ
-         />o<\
-        /|   |\
-       (_|   |_)
-```
-
-```
-  ~ corgi butt > your codebase ~
-
-          __
-     (___()'\`;
-     /,    /\`
-     \\\"--\\
-```
-
-```
-  ~ extinct like your TODO list lol ~
-
-                __
-               / _)
-        .-^^^-/ /
-     __/       /
-    <__.|_|-|_|
-```
-
-```
-  ~ been staring at logs for 72 hours ~
-   ~ the logs stare back              ~
-
-        ,___,
-        [O.o]
-        /)__)
-        -"--"-
-```
-
-```
   ~ approaching you menacingly ~
 
         ⊂_ヽ
@@ -126,20 +78,6 @@ The blank lines INSIDE the code block before and after the art are critical — 
 ```
 
 ```
-  ~ 47 failed checks. lgtm. ~
-
-          /\   /\
-         //\\_//\\     ____
-         \_     _/    /   /
-          / * * \    /^^^]
-          \_\O/_/    [   ]
-           /   \_    [   /
-           \     \_  /  /
-            [ [ /  \/ _/
-           _[ [ \  /_/
-```
-
-```
   ~ showed up at standup and chose violence ~
 
               ,--,
@@ -154,18 +92,6 @@ The blank lines INSIDE the code block before and after the art are critical — 
        ( /|  |  |  |\ )
         \/ |  |  | \|/
             |__|__|
-```
-
-```
-  ~ i use arch btw ~
-
-          ___
-         (.· |
-         (<> |
-        / __  \
-       ( /  \ /|
-      _/\ __)/_)
-      \/-____\/
 ```
 
 ```
@@ -212,17 +138,6 @@ The blank lines INSIDE the code block before and after the art are critical — 
 ```
 
 ```
-   ~ it works on my machine ~
-
-      _____
-     /     \
-    | () () |
-     \  ^  /
-      |||||
-      |||||
-```
-
-```
     ~ no conflicts here ~
 
     $ git push --force
@@ -236,24 +151,6 @@ The blank lines INSIDE the code block before and after the art are critical — 
     remote:     |   THIS  |
     remote:     | IS FINE |
     remote:     |_________|
-```
-
-```
-      ~ the code is cooked ~
-
-              .
-             ":"
-           ___:____
-         ,'        \`.
-        |  O        \
-        |            |
-         \          /
-          \`.______.'
-            |    |
-       _____| {} |_____
-      /                 \
-     |   404 NOT FOUND   |
-      \_________________/
 ```
 
 ```
@@ -498,4 +395,239 @@ The blank lines INSIDE the code block before and after the art are critical — 
       | ! |
       |___|
        \_/
+```
+
+```
+  ~ ngl judging your code rn ~
+
+            .                .
+            :"-.          .-";
+            |:`.`.__..__.'.';|
+            || :-"      "-; ||
+            :;              :;
+            /  .==.    .==.  \
+           :      _.--._      ;
+           ; .--.' `--' `.--. :
+          :   __;`      ':__   ;
+          ;  '  '-._:;_.-'  '  :
+          '.       `--'       .'
+           ."-._          _.-".
+         .'     ""------""     `.
+        /`-                    -'\
+       /`-                      -'\
+      :`-   .'              `.   -';
+      ;    /                  \    :
+     :    :                    ;    ;
+     ;    ;                    :    :
+     ':_:.'                    '.;_;'
+```
+
+```
+  ~ extinct like your TODO list lol ~
+
+                        .       .
+                       / `.   .' \
+               .---.  <    > <    >  .---.
+               |    \  \ - ~ ~ - /  /    |
+                ~-.   \         /   .-~
+                    ~-.| O   O |.-~
+                     ( \       / )
+                      "-.___.-"/
+               /     \  \     /  /     \
+              |       '------'        |
+              |                       |
+               \                     /
+                `-----._______.-----'
+```
+
+```
+  ~ a wild bug appeared ~
+
+       ;-.               ,
+        \ '.           .'/ 
+         \  \ .---. .-' /
+          '. '     `\_.'
+            |(),()  |     ,
+            (  __   /   .' \
+           .''.___.'--,/\_,|
+          {  /     \   }   |
+           '.\     /_.'    /
+            |'-.-',  `; _.'
+            |  |  |   |`
+            `""\`""\`"""\`
+```
+
+```
+  ~ meowth thats right ~
+
+               .-. \_/ .-.
+               \.-\/=\/.-/
+            '-./___|=|___\.-'
+           .--| \|/`"\`\|/ |--.
+          (((_)\  .---.  /(_)))
+           `\ \_`-.   .-'_/ /`
+             '.__       __.'
+                 /     \
+                |       |__.'
+                \       /--'
+            .--,-' .--. '----.
+           '----`--'  '--`----'
+```
+
+```
+  ~ press start to continue ~
+
+ _n_________________
+|_|_______________|_|
+|  ,-------------.  |
+| |  .---------.  | |
+| |  |         |  | |
+| |  |         |  | |
+| |  |         |  | |
+| |  |         |  | |
+| |  `---------'  | |
+| `---------------' |
+|   _ GAME BOY      |
+| _| |_         ,-. |
+||_ O _|   ,-. "._,"|
+|  |_|    "._,"   A |
+|    _  _    B      |
+|   // //           |
+|  // //    \\\\  |
+|  `  `      \\\\ ,
+|________...______,"
+```
+
+```
+  ~ dangerous to code alone. take this. ~
+
+                          o
+                 o       /
+                  \     /
+                   \   /
+                    \ /
+               ______________
+              |.------------.|
+              ||            ||
+              ||            ||
+              ||            ||
+              ||____________||_
+              |OO ....... OO | `-.
+              '------_.-._---' _.'
+               _____||   ||___/_
+              /  _.-|| N ||-._  \
+             / -'_.---------._'- \
+            /_.-'  NINTENDO  '-._\
+```
+
+```
+  ~ been staring at logs for 72 hours ~
+   ~ the logs stare back              ~
+
+        ._____.
+       (  @_@  )
+       |  ---  |
+       |       |
+  _____|_______|_____
+ |                   |
+ | $ tail -f app.log |
+ | ERROR ERROR ERROR |
+ | ERROR ERROR ERROR |
+ | ERROR ERROR ERROR |
+ | ERROR ERROR ERROR |
+ |___________________|
+```
+
+```
+  ~ it works on my machine ~
+
+     _________
+    / ======= \
+   / __________\
+  | ___________ |
+  | | -       | |
+  | |         | |
+  | |_________| |________________________
+  \=____________/   it works on my       )
+  / """"""""""" \    machine             /
+ / ::::::::::::: \                 =D-'
+(_________________)
+```
+
+```
+  ~ i use arch btw ~
+
+                  -`
+                 .o+`
+                `ooo/
+               `+oooo:
+              `+oooooo:
+              -+oooooo+:
+            `/:-:++oooo+:
+           `/++++/+++++++:
+          `/++++++++++++++:
+         `/+++ooooooooooooo/`
+        ./ooosssso++osssssso+`
+       .oossssso-````/ossssss+`
+      -osssssso.      :ssssssso.
+     :osssssss/        osssso+++.
+    /ossssssss/        +ssssooo/-
+  `/ossssso+/:-        -:/+osssso+-
+ `+sso+:-`                 `.-/+oso:
+`++:.                           `-/+/
+.`                                 `/
+```
+
+```
+  ~ 47 failed checks. lgtm. ~
+
+          /\   /\
+         //\\_//\\
+         \_     _/
+          / * * \         .--------.
+          \_\O/_/        | 47 FAILED|
+           /   \_        | CHECKS   |
+           \    \        |          |
+            [ [  \       |  lgtm    |
+           _[ [   \      '--------'
+```
+
+```
+  ~ the code is cooked ~
+
+           (
+            )     (
+     ___...(-------)-....___
+ .-""       )    (          ""-.
+.-'``'|-._   (       )   _.-|
+/  .--.|   `""---...---""`   |
+| |    |                     |
+| |    |     THE CODE        |
+ \  \  |      IS COOKED     |
+  `  \ |                     |
+      `|                     |
+       |                     |
+       |_____________________|
+```
+
+```
+  ~ harden. just harden. ~
+
+                 _.---._
+               .'       '.
+              /           \
+             / /'-.   .-'\ \
+             '.`"""` `"""`.'
+              /'-._   _.-'\
+             /_.--\`-`/--._\
+             ;    |'-'|    ;
+             |  .'/ | \'.  |
+             |  | \ | / |  |
+              \  \/\|/\/  /
+               \_/  _  \_/
+                |-'` `'-|
+                |.-"""-.|
+                 \ .---. /
+                  '._ _.'
+                     `
 ```
