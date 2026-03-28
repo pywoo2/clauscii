@@ -1,7 +1,7 @@
 {
   "name": "clauscii",
   "description": "Cute ASCII art & animations for Claude Code. Brightens every session with a random piece of art on startup.",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "author": {
     "name": "pywoo2"
   },
