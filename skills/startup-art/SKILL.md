@@ -24,7 +24,7 @@ Rules:
          |、˜〵
          じしˍ,)ノ
 
-  ~ judges your code silently ~
+  ~ ngl judging your code rn ~
 ```
 
 ```
@@ -53,21 +53,7 @@ Rules:
      __/       /
     <__.|_|-|_|
 
-  ~ extinct like your TODO list ~
-```
-
-```
-       .---.
-      /     \
-      \.@-@./
-      /\`\_/\`\
-     //  _  \\
-    | \     )|_
-   /\`\_\`>  <_/ \
-   \__/'---'\__/
-
-  ~ linux in the streets ~
-   ~ kernel panic in the sheets ~
+  ~ extinct like your TODO list lol ~
 ```
 
 ```
@@ -215,7 +201,7 @@ Rules:
  │     [  OK  ]            │
  └─────────────────────────┘
 
-    ~ core dumped with love ~
+    ~ core dumped lol ~
 ```
 
 ```
@@ -260,7 +246,7 @@ Rules:
      |   404 NOT FOUND   |
       \_________________/
 
-      ~ the code is a lie ~
+      ~ the code is cooked ~
 ```
 
 ```
@@ -314,7 +300,7 @@ Rules:
               \###.   .)
                `======/
 
-  ~ sir, this is a codebase ~
+  ~ sir this is a codebase ~
 ```
 
 ```
@@ -355,7 +341,7 @@ Rules:
 | '------'|
 |__________|
 
-  ~ production architecture ~
+  ~ production architecture tbh ~
 ```
 
 ```
@@ -403,20 +389,7 @@ Rules:
        _| |_
       |_____|
 
-  ~ the "quick fix" was a lie ~
-```
-
-```
-    ██████████████████████████████
-    █  BREAKING CHANGE          █
-    █                            █
-    █  "i just renamed a         █
-    █   variable lol"            █
-    █                            █
-    █  47 services affected      █
-    ██████████████████████████████
-
-  ~ butterfly effect but for APIs ~
+  ~ "quick fix" btw ~
 ```
 
 ```
