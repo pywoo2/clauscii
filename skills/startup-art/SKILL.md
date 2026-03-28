@@ -643,3 +643,185 @@ Rules:
   ~ the call is coming from ~
    ~ inside the house        ~
 ```
+
+```
+    nobody:
+
+    absolutely nobody:
+
+    my terminal at 3am:
+
+       Segmentation fault
+       (core dumped)
+
+  ~ hello darkness my old friend ~
+```
+
+```
+    me: this will be a quick fix
+
+    the fix, 6 hours later:
+
+    +-----------+
+    |           |
+    | WHY       |
+    |           |
+    +-----------+
+        | |
+       _| |_
+      |_____|
+
+  ~ the "quick fix" was a lie ~
+```
+
+```
+    ██████████████████████████████
+    █  BREAKING CHANGE          █
+    █                            █
+    █  "i just renamed a         █
+    █   variable lol"            █
+    █                            █
+    █  47 services affected      █
+    ██████████████████████████████
+
+  ~ butterfly effect but for APIs ~
+```
+
+```
+    therapist: legacy code can't
+    hurt you
+
+    legacy code:
+
+      if (x != true) {
+        if (x != false) {
+          if (x != null) {
+            // ???
+            return true; // DONT TOUCH
+          }
+        }
+      }
+
+  ~ the author quit in 2017 ~
+```
+
+```
+    stages of debugging:
+
+    1. that's weird
+    2. that makes no sense
+    3. that's impossible
+    4. oh
+    5. OH
+    6. ...oh no
+
+        \  |  /
+         \ | /
+          \|/
+       ----*----
+          /|\
+         / | \
+        /  |  \
+
+  ~ it was a typo ~
+```
+
+```
+    LGTM
+
+    L - didn't
+    G - read
+    T - a single
+    M - line
+
+        .-------.
+       /   (o_o)  \
+      |   approved |
+       \_________/
+
+  ~ +1 ship it ~
+```
+
+```
+    galaxy brain:
+
+    .     fixing the bug
+    ..    deleting the test
+    ...   marking it "wontfix"
+    ....  blaming cosmic rays
+
+      ___________
+     /           \
+    |   *  * *    |
+    |  * GALAXY * |
+    |   * BRAIN * |
+    |    * *  *   |
+     \___________/
+
+  ~ modern problems etc ~
+```
+
+```
+    slack:      you up?
+    pagerduty:  you up?
+    datadog:    you up?
+    grafana:    you up?
+
+           (O_O)
+          /|   |\
+           |   |
+          / \ / \
+
+  ~ it's 3am and everything is on fire ~
+```
+
+```
+    git log --oneline:
+
+    a29f3e fix
+    b17d4a fix fix
+    c83e2b actually fix
+    d9a1c7 ok for real this time
+    e42b8d FINAL fix
+    fee31a FINAL FINAL fix
+    g7c4d2 i hate everything
+
+  ~ at least it compiles ~
+```
+
+```
+    5 stages of deploying:
+
+    1. "this is fine"
+    2. "wait"
+    3. "WAIT"
+    4. "ROLLBACK ROLLBACK"
+    5. "we don't talk about friday"
+
+         _____
+        /     \
+       | R I P |
+       | fri   |
+       | dpls  |
+       |_______|
+
+  ~ never on a friday ~
+```
+
+```
+    error taxonomy:
+
+    EXPECTED: NullPointerException
+    SURPRISE: works in staging
+    BETRAYAL: works on my machine
+    GASLIGHTING: "it's not a bug"
+    HORROR: "it's a feature"
+
+       ___
+      |   |
+      | ! |
+      |___|
+       \_/
+
+  ~ error 418: i'm a teapot ~
+```
