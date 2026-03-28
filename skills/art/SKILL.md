@@ -1,7 +1,7 @@
 ---
 name: art
-description: "Use when the user types /art or asks to see ASCII art — displays a random cute ASCII art piece"
-user_invocable: true
+description: Displays a random cute ASCII art piece
+argument-hint: "[animal or thing]"
 ---
 
 # Clauscii — Show Art
