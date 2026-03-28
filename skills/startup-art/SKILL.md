@@ -19,7 +19,7 @@ Rules:
 ## Gallery
 
 ```
-
+.
           ╭|、
         (˚ˎ 。7
          |、˜〵
@@ -27,9 +27,8 @@ Rules:
 
   ~ ngl judging your code rn ~
 ```
-
 ```
-
+.
          /\_/\
         ( -.- ) zzZ
          />o<\
@@ -38,9 +37,8 @@ Rules:
 
   ~ cat /dev/null > your_bugs ~
 ```
-
 ```
-
+.
           __
      (___()'\`;
      /,    /\`
@@ -48,9 +46,8 @@ Rules:
 
   ~ corgi butt > your codebase ~
 ```
-
 ```
-
+.
                 __
                / _)
         .-^^^-/ /
@@ -59,9 +56,8 @@ Rules:
 
   ~ extinct like your TODO list lol ~
 ```
-
 ```
-
+.
         ,___,
         [O.o]
         /)__)
@@ -70,9 +66,8 @@ Rules:
   ~ been staring at logs for 72 hours ~
    ~ the logs stare back              ~
 ```
-
 ```
-
+.
         ⊂_ヽ
          ＼＼ Λ＿Λ
           ＼( 'ㅅ' )
@@ -91,9 +86,8 @@ Rules:
 
   ~ approaching you menacingly ~
 ```
-
 ```
-
+.
               __
            .-'  |
           /   <\|
@@ -110,9 +104,8 @@ Rules:
   ~ senior rubber duck engineer ~
    ~ 10 YOE in quacking        ~
 ```
-
 ```
-
+.
                        .
                       ":"
                     ___:____     |"\/"|
@@ -125,9 +118,8 @@ Rules:
 
   ~ deep as your node_modules ~
 ```
-
 ```
-
+.
           /\   /\
          //\\_//\\     ____
          \_     _/    /   /
@@ -140,9 +132,8 @@ Rules:
 
   ~ 47 failed checks. lgtm. ~
 ```
-
 ```
-
+.
               ,--,
            .--'   \
           /  .  .  \
@@ -158,9 +149,8 @@ Rules:
 
   ~ showed up at standup and chose violence ~
 ```
-
 ```
-
+.
           ___
          (.· |
          (<> |
@@ -171,9 +161,8 @@ Rules:
 
   ~ i use arch btw ~
 ```
-
 ```
-
+.
        \\        /
         \\      /
          \\    /
@@ -188,9 +177,8 @@ Rules:
 
   ~ how do i exit ~
 ```
-
 ```
-
+.
     ┌──────────────────────┐
     │ $ sudo rm -rf /      │
     │ Password:             │
@@ -202,9 +190,8 @@ Rules:
       ~ you didn't flinch ~
        ~ ...right?        ~
 ```
-
 ```
-
+.
  ┌─────────────────────────┐
  │  SEGMENTATION FAULT     │
  │                         │
@@ -217,9 +204,8 @@ Rules:
 
     ~ core dumped lol ~
 ```
-
 ```
-
+.
       _____
      /     \
     | () () |
@@ -229,9 +215,8 @@ Rules:
 
    ~ it works on my machine ~
 ```
-
 ```
-
+.
     $ git push --force
     remote: EVERYTHING IS FINE
     remote: THIS IS FINE
@@ -246,9 +231,8 @@ Rules:
 
     ~ no conflicts here ~
 ```
-
 ```
-
+.
               .
              ":"
            ___:____
@@ -265,9 +249,8 @@ Rules:
 
       ~ the code is cooked ~
 ```
-
 ```
-
+.
    ┌─────────────┐
    │ 🔥 THIS IS  │
    │   FINE 🔥   │
@@ -282,9 +265,8 @@ Rules:
 
     ~ nothing to see here ~
 ```
-
 ```
-
+.
    TODAY'S SESSION SPONSORED BY:
 
      ╔═══════════════════════════╗
@@ -299,9 +281,8 @@ Rules:
 
    ~ ctrl+c ctrl+v engineer ~
 ```
-
 ```
-
+.
               ___
           . -^   `--,
          /# =========`-_
@@ -322,9 +303,8 @@ Rules:
 
   ~ sir this is a codebase ~
 ```
-
 ```
-
+.
          ._____.
         (  o_o  )
         |  >o<  |
@@ -336,9 +316,8 @@ Rules:
 
   ~ wait it's all spaghetti code? ~
 ```
-
 ```
-
+.
     ,___,       ,___,
     [O.o]       [o.O]
     /)__)       (__(\ 
@@ -348,9 +327,8 @@ Rules:
    ~ "looks good to me"  ~
    ~ (didn't read it)    ~
 ```
-
 ```
-
+.
    _____
   |     |
   | | | |
@@ -366,9 +344,8 @@ Rules:
 
   ~ production architecture tbh ~
 ```
-
 ```
-
+.
     (  )(  )(  )
      )(  )(  )(
     (  )(  )(  )
@@ -384,9 +361,8 @@ Rules:
 
   ~ distributed monolith ~
 ```
-
 ```
-
+.
    ____________________
   |                    |
   |  GIT BLAME         |
@@ -399,9 +375,8 @@ Rules:
   ~ the call is coming from ~
    ~ inside the house        ~
 ```
-
 ```
-
+.
     me: this will be a quick fix
 
     the fix, 6 hours later:
@@ -417,9 +392,8 @@ Rules:
 
   ~ "quick fix" btw ~
 ```
-
 ```
-
+.
     therapist: legacy code can't
     hurt you
 
@@ -436,9 +410,8 @@ Rules:
 
   ~ the author quit in 2017 ~
 ```
-
 ```
-
+.
     stages of debugging:
 
     1. that's weird
@@ -458,9 +431,8 @@ Rules:
 
   ~ it was a typo ~
 ```
-
 ```
-
+.
     LGTM
 
     L - didn't
@@ -475,9 +447,8 @@ Rules:
 
   ~ +1 ship it ~
 ```
-
 ```
-
+.
     slack:      you up?
     pagerduty:  you up?
     datadog:    you up?
@@ -490,9 +461,8 @@ Rules:
 
   ~ it's 3am and everything is on fire ~
 ```
-
 ```
-
+.
     git log --oneline:
 
     a29f3e fix
@@ -505,9 +475,8 @@ Rules:
 
   ~ at least it compiles ~
 ```
-
 ```
-
+.
     error taxonomy:
 
     EXPECTED: NullPointerException
