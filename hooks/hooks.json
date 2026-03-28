@@ -1,0 +1,12 @@
+{
+  "description": "Show cute ASCII art on session start",
+  "hooks": {
+    "SessionStart": [
+      {
+        "type": "command",
+        "command": "bash ${CLAUDE_PLUGIN_ROOT}/show.sh",
+        "timeout": 5
+      }
+    ]
+  }
+}

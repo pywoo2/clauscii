@@ -1,23 +1,228 @@
 ---
 name: art
-description: Displays a random cute colorful ASCII art piece
+description: Displays a random cute ASCII art piece
 argument-hint: "[animal or thing]"
 ---
 
 # Clauscii — Show Art
 
-Use the Bash tool to run:
+Pick a random art piece from the gallery below and display it directly as text (NOT in a code block, NOT via the Bash tool). Just output the raw art as your response.
 
-```bash
-bash <plugin_dir>/show.sh
+If the user asks for something specific (e.g. "show me a cat"), pick the closest match.
+
+## Gallery
+
+### Fluffy Cat
+```
+           /\_____/\
+          /  o   o  \
+         ( ==  ^  == )
+          )         (
+         (           )
+        ( (  )   (  ) )
+       (__(__)___(__)__)
+
+      ~  have a purrfect day  ~
 ```
 
-Where `<plugin_dir>` is the directory this plugin is installed in (the parent of the `skills/` directory).
+### Big Bunny
+```
+          ()  ()
+          (\ /)
+         ( . . )
+        c(  "  )
+         |     |
+         |     |
+     ____|     |____
+    /    |     |    \
+   |     |     |     |
+   |      \   /      |
+    \      '-'      /
+     '-.________.-'
 
-If the user asks for a specific animal or thing, list the files in `<plugin_dir>/art/` and pick the closest match:
-
-```bash
-cat <plugin_dir>/art/<matching-file>.txt
+       hop hop hop ~
 ```
 
-Available art: fluffy-cat, big-bunny, sleepy-bear, happy-whale, corgi, penguin-family, cat-in-box, octopus, frog-on-lily, duck-float, tiny-dino, cloud-friends.
+### Sleepy Bear
+```
+        .--.     .--.
+       / .. \   / .. \
+      | (  ) |_| (  ) |
+       \ '' /   \ '' /
+        '--' .-. '--'
+       /    ( - )    \
+      |    / '-' \    |
+      |   |       |   |
+       \  |  zzZ  |  /
+        \ |       | /
+         '|  .-.  |'
+          | ( _ ) |
+          |  '-'  |
+           '-----'
+
+       ~ sweet dreams ~
+```
+
+### Happy Whale
+```
+                       .
+                      ":"
+                    ___:____     |"\/"|
+                  ,'        `.    \  /
+                 /  o         \___/  |
+                |              ^^^^  |
+             _  |     ()            _|
+            / '-.\  .__         _.-' |
+           /     '-.|  '-.___.-'     /
+          /         \              _/
+         |    ~~~    '.  __  __..'
+          \    ~~~     '-.__.-'
+   ~~~~~~~~'--...___...--'~~~~~~~~
+
+      ~ making waves today ~
+```
+
+### Corgi
+```
+          ____      ____
+         /    \    /    \
+        | (o)  \__/  (o) |
+         \   __    __   /
+          | |  \  /  | |
+           \|   \/   |/
+            |  {  }  |
+            |  ||||  |
+       _____|  ||||  |_____
+      /     \  ''''  /     \
+     |       '------'       |
+     |    (\          /)    |
+      \    \\________//    /
+       '-.__\/ .- . \/__.-'
+              | | | |
+              |_| |_|
+
+         ~ bork bork ~
+```
+
+### Penguin Family
+```
+       .---.         .---.
+      / ___ \       / ___ \
+     | (o o) |     | (o o) |
+      \  V  /       \  V  /
+       '---'         '---'
+      /|   |\       /|   |\
+     / |   | \     / |   | \
+    /  |   |  \   /  |   |  \
+       |   |   .---.  |   |
+       |   |  / oo  \ |   |
+       |   |  \ --  / |   |
+       '   '   '---'  '   '
+
+     ~ waddle waddle ~
+```
+
+### Cat in a Box
+```
+              /\_/\
+             ( o.o )   ?
+              > ^ <
+    .-----------.
+    |           |
+    |           |
+    |   /\_/\   |
+    |  ( -.- )  |
+    |  /|   |\  |
+    | (_|   |_) |
+    |___________|
+    |  if i fits |
+    |   i sits   |
+    '---_____---'
+```
+
+### Octopus
+```
+            ___
+         .-'   '-.
+        /  ^   ^  \
+       |  ( o o )  |
+        \   \_/   /
+         '-.___..-'
+        /  |   |  \
+       /  /|   |\  \
+      /  / |   | \  \
+     (  (  |   |  )  )
+      \  \_|   |_/  /
+       \   |   |   /
+        )  |   |  (
+       /   |   |   \
+      /    '   '    \
+     (               )
+      '-._________.-'
+
+      ~ eight hugs ~
+```
+
+### Frog on Lily Pad
+```
+              @..@
+             (----)
+            ( >  < )
+             ^^^^^^
+            /|    |\
+           / |    | \
+          /  |    |  \
+    ~~~~~~~~~~~~~~~~~
+   /  ()            ()  \
+  /    ()      ()        \
+ |        ()              |
+  \                      /
+   '~~~~~~~~~~~~~~~~~~~~'
+
+    ~ ribbit ribbit ~
+```
+
+### Duck Float
+```
+             __
+          __(  )_
+         (  o   _)
+          (  (_/
+           \   \      quack
+            \   '-.
+    .--------'-----'--------.
+   /  ~ ~   ~ ~   ~ ~   ~ ~  \
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ~~~  ~~~~   ~~~~  ~~~~  ~~~~  ~~~
+    ~~~~   ~~~~   ~~~~  ~~~~
+       ~~~~    ~~~~    ~~~~
+
+      ~ just keep floating ~
+```
+
+### Tiny Dino
+```
+                __
+               / _)
+        .-^^^-/ /
+     __/       /
+    <__.|_|-|_|
+
+       ~ rawr ~
+```
+
+### Cloud Friends
+```
+     .~~~.    .~~~.    .~~~.
+    ( o o )  ( ^ ^ )  ( - - )
+     '~~~'    '~~~'    '~~~'
+    /     \  /     \  /     \
+   /       \/       \/       \
+  '~~~~~~~~~'~~~~~~~'~~~~~~~~~'
+
+        *  . * .  *  . * .  *
+       .  *  .  *  .  *  .
+
+    ~ cloudy with a chance ~
+     ~ of good vibes today ~
+```

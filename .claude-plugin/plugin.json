@@ -6,7 +6,6 @@
     "name": "pywoo2"
   },
   "skills": [
-    "./skills/startup-art",
     "./skills/art"
   ]
 }
