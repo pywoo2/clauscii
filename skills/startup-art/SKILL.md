@@ -147,33 +147,6 @@ Rules:
 ```
 
 ```
-          .----.   @   @
-         / .-"-.\`.  \v/
-         | | '\ \ \_/ )
-       ,-\ \`-./ /.'  /
-      '---\`----'----'
-
-  ~ still faster than your CI pipeline ~
-```
-
-```
-          (  )   (   )  )
-           ) (   )  (  (
-           ( )  (    ) )
-           _____________
-          |             |]
-          |  ~ ~ ~ ~ ~  |]
-          |   ~ ~ ~ ~   |]
-          |  ~ ~ ~ ~ ~  |]
-          |_____________|]
-           \_____________/
-            \`---_____---'
-
-  ~ fuel level: critical ~
-   ~ sprint level: also critical ~
-```
-
-```
               ,--,
            .--'   \
           /  .  .  \
@@ -188,59 +161,6 @@ Rules:
             |__|__|
 
   ~ showed up at standup and chose violence ~
-```
-
-```
-       .---.         .---.
-      / ___ \       / ___ \
-     | (o o) |     | (o o) |
-      \  V  /       \  V  /
-       '---'         '---'
-      /|   |\       /|   |\
-     / |   | \     / |   | \
-    /  |   |  \   /  |   |  \
-       |   |   .---.  |   |
-       |   |  / o o \ |   |
-       |   |  \ - /  |   |
-       '   '   '---'  '   '
-
-  ~ 3 penguins reviewed your PR ~
-   ~ 2 approved. 1 requested changes. ~
-```
-
-```
-              .-""\"\"\"-.
-            .'  .-----.  '.
-           /   / o  o  \   \
-          |   |  o  o   |   |
-          |    \ o  o  /    |
-           \    '-....-'    /
-            '-...______...-'
-          |                  |
-          |    .------.      |
-          |   /        \     |
-          |  |          |    |
-          |__|__________|____|
-
-  ~ ate a deprecated package. evolved. ~
-```
-
-```
-     .--.              .--.
-    : (\ ". _......_ ." /) :
-     '.    \`        \`    .'
-      /   _  .-\`\`-.  _   \
-     |  /:o|  _   _  |o:\  |
-     |  |:o| |o| |o| |o:|  |
-      \  \_/ ._   _. \_/  /
-       \`-.__ /     \ __.-'
-            |       |
-            |  |_|  |
-            '.     .'
-              '---'
-
-  ~ vibes when CI is green ~
-   ~ dissociates when CI is red ~
 ```
 
 ```
@@ -310,16 +230,6 @@ Rules:
 ```
 
 ```
-    [=========>         ]  45%
-    Installing patience...
-
-    Estimated time: ∞
-
-    ~ have you tried closing your ~
-     ~ laptop and going outside   ~
-```
-
-```
     $ git push --force
     remote: EVERYTHING IS FINE
     remote: THIS IS FINE
@@ -351,71 +261,6 @@ Rules:
       \_________________/
 
       ~ the code is a lie ~
-```
-
-```
-     ,        ,
-    /(        )\`
-    \ \___   / |
-    /- _  \`-/  '
-   (/\/ \ \   /\
-   / /   | \`    \
-   O O   ) /    |
-   \`-^--'\`<     '
-  (_.)  _  )   /
-   \`.___/\`    /
-     \`-----' /
-<----.     __ / __   \
-<----|====O)))==)  ) /====
-<----'    \`--' \`.__,' \
-     |        |
-      \       /
- ______( (_  / \______
-,'  ,-----'   |       \
-\`--{__________)       \/
-
-      ~ en garde ~
-```
-
-```
- ________________
-< deploying now  >
- ----------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-
-   ~ moo-ve fast break things ~
-```
-
-```
-   ██████╗██╗      █████╗ ██╗   ██╗██████╗ ███████╗
-  ██╔════╝██║     ██╔══██╗██║   ██║██╔══██╗██╔════╝
-  ██║     ██║     ███████║██║   ██║██║  ██║█████╗
-  ██║     ██║     ██╔══██║██║   ██║██║  ██║██╔══╝
-  ╚██████╗███████╗██║  ██║╚██████╔╝██████╔╝███████╗
-   ╚═════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝
-
-       ~ let's ship something ~
-```
-
-```
- _____________________________________________
-|                                             |
-|  TERMS AND CONDITIONS                       |
-|                                             |
-|  1. code will have bugs                     |
-|  2. "quick fix" is never quick              |
-|  3. it's always a DNS problem               |
-|  4. the sprint will not go as planned       |
-|  5. friday deploys are forbidden            |
-|                                             |
-|        [ I AGREE ]  [ I ALSO AGREE ]        |
-|_____________________________________________|
-
-         ~ scroll to the bottom ~
 ```
 
 ```
@@ -486,16 +331,6 @@ Rules:
 ```
 
 ```
-       \|/ ____ \|/
-        @~/ ,. \~@
-       /_(  \__/ )_\
-          \__U_/
-
-  ~ this meeting could have ~
-   ~ been a slack message    ~
-```
-
-```
     ,___,       ,___,
     [O.o]       [o.O]
     /)__)       (__(\ 
@@ -524,43 +359,6 @@ Rules:
 ```
 
 ```
-  +---------+
-  | > panic |   no
-  +---------+ ---->  is it
-       |             friday?
-       v               |
-    PANIC           yes |
-       |               v
-       v          are you
-    PANIC         deploying?
-       |              |
-       v          yes |
-    HARDER            v
-                   LMAO
-
-  ~ the incident flowchart ~
-```
-
-```
-    _    _    _    _
-   | |  | |  | |  | |
-   | |  | |  | |  | |
-   | |  | |  | |  | |
-   |_|  |_|  |_|  |_|
-
-   n    o    d    e
-   _                 _
-  | |  modules      | |
-  |_|  ___________  |_|
-      |           |
-      | 847 GB    |
-      |___________|
-
-  ~ it's not heavy it's ~
-   ~ well-architected    ~
-```
-
-```
     (  )(  )(  )
      )(  )(  )(
     (  )(  )(  )
@@ -578,59 +376,6 @@ Rules:
 ```
 
 ```
-   Year 1: "move fast break things"
-   Year 2: "ok stop breaking things"
-   Year 3: "who built this"
-   Year 4: "we need a rewrite"
-   Year 5: "move fast break things"
-
-        (   )
-       (    )
-      (   )   <-- the cycle
-       (  )
-        ()
-
-  ~ the circle of tech debt ~
-```
-
-```
-      ___________
-     /           \
-    /  PROD IS    \
-   |   DOWN BUT   |
-   |   MY LOCAL   |
-   |   WORKS FINE |
-    \             /
-     \___________/
-          ||
-          ||
-     _____|_____
-    |           |
-    |  LAPTOP   |
-    |___________|
-
-  ~ certified localhost engineer ~
-```
-
-```
-        _
-       | |
-       | |===( )   //////
-       |_|   |||  | o o|
-              ||| ( c  )                  ____
-              |||  \ = /                 ||   \_
-              ||||||||||                 ||     |
-              ||||||||||                 ||     |
-              ||||||||||              __ ||     |__
-             |   |    |             |___||________|
-             |   |    |_____________|
-             |___|    |             |
-                      |_____________|
-
-  ~ me explaining my PR to the team ~
-```
-
-```
    ____________________
   |                    |
   |  GIT BLAME         |
@@ -642,19 +387,6 @@ Rules:
 
   ~ the call is coming from ~
    ~ inside the house        ~
-```
-
-```
-    nobody:
-
-    absolutely nobody:
-
-    my terminal at 3am:
-
-       Segmentation fault
-       (core dumped)
-
-  ~ hello darkness my old friend ~
 ```
 
 ```
@@ -743,25 +475,6 @@ Rules:
 ```
 
 ```
-    galaxy brain:
-
-    .     fixing the bug
-    ..    deleting the test
-    ...   marking it "wontfix"
-    ....  blaming cosmic rays
-
-      ___________
-     /           \
-    |   *  * *    |
-    |  * GALAXY * |
-    |   * BRAIN * |
-    |    * *  *   |
-     \___________/
-
-  ~ modern problems etc ~
-```
-
-```
     slack:      you up?
     pagerduty:  you up?
     datadog:    you up?
@@ -787,25 +500,6 @@ Rules:
     g7c4d2 i hate everything
 
   ~ at least it compiles ~
-```
-
-```
-    5 stages of deploying:
-
-    1. "this is fine"
-    2. "wait"
-    3. "WAIT"
-    4. "ROLLBACK ROLLBACK"
-    5. "we don't talk about friday"
-
-         _____
-        /     \
-       | R I P |
-       | fri   |
-       | dpls  |
-       |_______|
-
-  ~ never on a friday ~
 ```
 
 ```
