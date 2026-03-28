@@ -1,15 +1,17 @@
 ---
 name: startup-art
-description: Use at the very start of every new conversation — display a random cute ASCII art piece before responding to the user's first message
+description: Use when responding to any message — prepend a random cute ASCII art piece to your very first reply in each conversation
 ---
 
 # Clauscii — Startup Art
 
-At the **start of every new conversation**, before doing anything else, pick one random art piece from the gallery below and display it in a code block. Add a short, fun one-liner caption underneath that matches the art's vibe.
+When responding to the **first message** in a conversation, before anything else, pick one random art piece from the gallery below and display it in a code block. Add a short, fun one-liner caption underneath that matches the art's vibe. Then respond to the user's message normally.
+
+For all subsequent messages in the same conversation, do NOT show art — just respond normally.
 
 Rules:
-- **One art per session** — only show art on the very first message
-- **Randomize** — don't repeat the same one back-to-back across sessions; variety is the spice of life
+- **One art per session** — only show art on the very first reply
+- **Randomize** — pick a different one each time; variety is the spice of life
 - **Keep it brief** — show the art, a quick caption, then get to work
 - **Code block** — always wrap the art in a fenced code block so it renders correctly in the terminal
 
