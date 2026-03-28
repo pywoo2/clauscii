@@ -13,7 +13,7 @@ For all subsequent messages, do NOT show art.
 Rules:
 - **One per session** — only the first reply
 - **Randomize** — pick a different one each session
-- **Code block** — wrap in a fenced code block so spacing is preserved
+- **ALWAYS use a fenced code block** (triple backticks) — ASCII art MUST be inside a code block or markdown will destroy the backslashes and spacing. NEVER output art as plain text.
 - **Brief** — art + one-liner, then get to work
 
 ## Gallery
