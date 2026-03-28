@@ -27,49 +27,56 @@ The blank lines INSIDE the code block before and after the art are critical — 
 ## Gallery
 
 ```
+  ~ ngl judging your code rn ~
+
           ╭|、
         (˚ˎ 。7
          |、˜〵
          じしˍ,)ノ
+```
 
-  ~ ngl judging your code rn ~
 ```
-```
+  ~ cat /dev/null > your_bugs ~
+
          /\_/\
         ( -.- ) zzZ
          />o<\
         /|   |\
        (_|   |_)
+```
 
-  ~ cat /dev/null > your_bugs ~
 ```
-```
+  ~ corgi butt > your codebase ~
+
           __
      (___()'\`;
      /,    /\`
      \\\"--\\
+```
 
-  ~ corgi butt > your codebase ~
 ```
-```
+  ~ extinct like your TODO list lol ~
+
                 __
                / _)
         .-^^^-/ /
      __/       /
     <__.|_|-|_|
+```
 
-  ~ extinct like your TODO list lol ~
 ```
-```
+  ~ been staring at logs for 72 hours ~
+   ~ the logs stare back              ~
+
         ,___,
         [O.o]
         /)__)
         -"--"-
+```
 
-  ~ been staring at logs for 72 hours ~
-   ~ the logs stare back              ~
 ```
-```
+  ~ approaching you menacingly ~
+
         ⊂_ヽ
          ＼＼ Λ＿Λ
           ＼( 'ㅅ' )
@@ -85,10 +92,12 @@ The blank lines INSIDE the code block before and after the art are critical — 
        | |   ) /
        ノ )   Lﾉ
       (_／
+```
 
-  ~ approaching you menacingly ~
 ```
-```
+  ~ senior rubber duck engineer ~
+   ~ 10 YOE in quacking        ~
+
               __
            .-'  |
           /   <\|
@@ -101,24 +110,24 @@ The blank lines INSIDE the code block before and after the art are critical — 
           '.   ____/
            | -|-|_
            |____)_)
+```
 
-  ~ senior rubber duck engineer ~
-   ~ 10 YOE in quacking        ~
 ```
-```
+               ~^~^~^~^~^~^~^~^~^~^~^~
+           ~~~~    ~~~~    ~~~~
+              ~~~~     ~~~~
+  ~ deep as your node_modules ~
+
                        .
                       ":"
                     ___:____     |"\/"|
                   ,'        \`.    \  /
                  /  O        \___/  |
-               ~^~^~^~^~^~^~^~^~^~^~^~
-
-           ~~~~    ~~~~    ~~~~
-              ~~~~     ~~~~
-
-  ~ deep as your node_modules ~
 ```
+
 ```
+  ~ 47 failed checks. lgtm. ~
+
           /\   /\
          //\\_//\\     ____
          \_     _/    /   /
@@ -128,10 +137,11 @@ The blank lines INSIDE the code block before and after the art are critical — 
            \     \_  /  /
             [ [ /  \/ _/
            _[ [ \  /_/
+```
 
-  ~ 47 failed checks. lgtm. ~
 ```
-```
+  ~ showed up at standup and chose violence ~
+
               ,--,
            .--'   \
           /  .  .  \
@@ -144,10 +154,11 @@ The blank lines INSIDE the code block before and after the art are critical — 
        ( /|  |  |  |\ )
         \/ |  |  | \|/
             |__|__|
+```
 
-  ~ showed up at standup and chose violence ~
 ```
-```
+  ~ i use arch btw ~
+
           ___
          (.· |
          (<> |
@@ -155,10 +166,11 @@ The blank lines INSIDE the code block before and after the art are critical — 
        ( /  \ /|
       _/\ __)/_)
       \/-____\/
+```
 
-  ~ i use arch btw ~
 ```
-```
+  ~ how do i exit ~
+
        \\        /
         \\      /
          \\    /
@@ -170,10 +182,12 @@ The blank lines INSIDE the code block before and after the art are critical — 
       |       |
       |_______|
    :wq? :q!? ^C??
+```
 
-  ~ how do i exit ~
 ```
-```
+      ~ you didn't flinch ~
+       ~ ...right?        ~
+
     ┌──────────────────────┐
     │ $ sudo rm -rf /      │
     │ Password:             │
@@ -181,11 +195,11 @@ The blank lines INSIDE the code block before and after the art are critical — 
     │                       │
     │  just kidding. relax. │
     └──────────────────────┘
+```
 
-      ~ you didn't flinch ~
-       ~ ...right?        ~
 ```
-```
+    ~ core dumped lol ~
+
  ┌─────────────────────────┐
  │  SEGMENTATION FAULT     │
  │                         │
@@ -195,20 +209,22 @@ The blank lines INSIDE the code block before and after the art are critical — 
  │                         │
  │     [  OK  ]            │
  └─────────────────────────┘
+```
 
-    ~ core dumped lol ~
 ```
-```
+   ~ it works on my machine ~
+
       _____
      /     \
     | () () |
      \  ^  /
       |||||
       |||||
+```
 
-   ~ it works on my machine ~
 ```
-```
+    ~ no conflicts here ~
+
     $ git push --force
     remote: EVERYTHING IS FINE
     remote: THIS IS FINE
@@ -220,10 +236,11 @@ The blank lines INSIDE the code block before and after the art are critical — 
     remote:     |   THIS  |
     remote:     | IS FINE |
     remote:     |_________|
+```
 
-    ~ no conflicts here ~
 ```
-```
+      ~ the code is cooked ~
+
               .
              ":"
            ___:____
@@ -237,10 +254,11 @@ The blank lines INSIDE the code block before and after the art are critical — 
       /                 \
      |   404 NOT FOUND   |
       \_________________/
+```
 
-      ~ the code is cooked ~
 ```
-```
+    ~ nothing to see here ~
+
    ┌─────────────┐
    │ 🔥 THIS IS  │
    │   FINE 🔥   │
@@ -252,10 +270,11 @@ The blank lines INSIDE the code block before and after the art are critical — 
    │ prod: DOWN  │
    │ pager: ON   │
    └─────────────┘
+```
 
-    ~ nothing to see here ~
 ```
-```
+   ~ ctrl+c ctrl+v engineer ~
+
    TODAY'S SESSION SPONSORED BY:
 
      ╔═══════════════════════════╗
@@ -267,10 +286,11 @@ The blank lines INSIDE the code block before and after the art are critical — 
      ║    ain't writing itself"  ║
      ║                           ║
      ╚═══════════════════════════╝
+```
 
-   ~ ctrl+c ctrl+v engineer ~
 ```
-```
+  ~ sir this is a codebase ~
+
               ___
           . -^   `--,
          /# =========`-_
@@ -288,10 +308,11 @@ The blank lines INSIDE the code block before and after the art are critical — 
              \##       |
               \###.   .)
                `======/
+```
 
-  ~ sir this is a codebase ~
 ```
-```
+  ~ wait it's all spaghetti code? ~
+
          ._____.
         (  o_o  )
         |  >o<  |
@@ -300,20 +321,22 @@ The blank lines INSIDE the code block before and after the art are critical — 
    |                 |
    | always has been |
    |_________________|
+```
 
-  ~ wait it's all spaghetti code? ~
 ```
-```
+  ~ code review be like: ~
+   ~ "looks good to me"  ~
+   ~ (didn't read it)    ~
+
     ,___,       ,___,
     [O.o]       [o.O]
     /)__)       (__(\ 
     -"--"-     -"--"-
+```
 
-  ~ code review be like: ~
-   ~ "looks good to me"  ~
-   ~ (didn't read it)    ~
 ```
-```
+  ~ production architecture tbh ~
+
    _____
   |     |
   | | | |
@@ -326,10 +349,11 @@ The blank lines INSIDE the code block before and after the art are critical — 
 | |      ||
 | '------'|
 |__________|
+```
 
-  ~ production architecture tbh ~
 ```
-```
+  ~ distributed monolith ~
+
     (  )(  )(  )
      )(  )(  )(
     (  )(  )(  )
@@ -342,10 +366,12 @@ The blank lines INSIDE the code block before and after the art are critical — 
 
     oh wait that's just
     a monolith with HTTP
+```
 
-  ~ distributed monolith ~
 ```
-```
+  ~ the call is coming from ~
+   ~ inside the house        ~
+
    ____________________
   |                    |
   |  GIT BLAME         |
@@ -354,11 +380,11 @@ The blank lines INSIDE the code block before and after the art are critical — 
   |  it was me         |
   |  it was always me  |
   |____________________|
+```
 
-  ~ the call is coming from ~
-   ~ inside the house        ~
 ```
-```
+  ~ "quick fix" btw ~
+
     me: this will be a quick fix
 
     the fix, 6 hours later:
@@ -371,10 +397,11 @@ The blank lines INSIDE the code block before and after the art are critical — 
         | |
        _| |_
       |_____|
+```
 
-  ~ "quick fix" btw ~
 ```
-```
+  ~ the author quit in 2017 ~
+
     therapist: legacy code can't
     hurt you
 
@@ -388,10 +415,11 @@ The blank lines INSIDE the code block before and after the art are critical — 
           }
         }
       }
+```
 
-  ~ the author quit in 2017 ~
 ```
-```
+  ~ it was a typo ~
+
     stages of debugging:
 
     1. that's weird
@@ -408,10 +436,11 @@ The blank lines INSIDE the code block before and after the art are critical — 
           /|\
          / | \
         /  |  \
+```
 
-  ~ it was a typo ~
 ```
-```
+  ~ +1 ship it ~
+
     LGTM
 
     L - didn't
@@ -423,10 +452,11 @@ The blank lines INSIDE the code block before and after the art are critical — 
        /   (o_o)  \
       |   approved |
        \_________/
+```
 
-  ~ +1 ship it ~
 ```
-```
+  ~ it's 3am and everything is on fire ~
+
     slack:      you up?
     pagerduty:  you up?
     datadog:    you up?
@@ -436,10 +466,11 @@ The blank lines INSIDE the code block before and after the art are critical — 
           /|   |\
            |   |
           / \ / \
+```
 
-  ~ it's 3am and everything is on fire ~
 ```
-```
+  ~ at least it compiles ~
+
     git log --oneline:
 
     a29f3e fix
@@ -449,10 +480,11 @@ The blank lines INSIDE the code block before and after the art are critical — 
     e42b8d FINAL fix
     fee31a FINAL FINAL fix
     g7c4d2 i hate everything
+```
 
-  ~ at least it compiles ~
 ```
-```
+  ~ error 418: i'm a teapot ~
+
     error taxonomy:
 
     EXPECTED: NullPointerException
@@ -466,6 +498,4 @@ The blank lines INSIDE the code block before and after the art are critical — 
       | ! |
       |___|
        \_/
-
-  ~ error 418: i'm a teapot ~
 ```
