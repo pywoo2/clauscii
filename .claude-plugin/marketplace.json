@@ -10,10 +10,7 @@
     {
       "name": "clauscii",
       "description": "Cute ASCII art & animations for Claude Code. Brightens every session with a random piece of art on startup.",
-      "source": {
-        "source": "github",
-        "repo": "pywoo2/clauscii"
-      }
+      "source": "./"
     }
   ]
 }
