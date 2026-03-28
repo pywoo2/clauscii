@@ -449,3 +449,197 @@ Rules:
 
    ~ ctrl+c ctrl+v engineer ~
 ```
+
+```
+              ___
+          . -^   `--,
+         /# =========`-_
+        /# (--====___====\
+       /#   .- --.  . --.|
+      /##   |  * ) (   * ||
+      |##   \    /\ \   / |
+      |###   ---   \ ---  |
+      |####      ___)    #|
+      |######           ##|
+       \##### ---------- /
+        \####           (
+         `\###          |
+           `\###        |
+             \##       |
+              \###.   .)
+               `======/
+
+  ~ sir, this is a codebase ~
+```
+
+```
+         ._____.
+        (  o_o  )
+        |  >o<  |
+        |       |
+    ____|_______|____
+   |                 |
+   | always has been |
+   |_________________|
+
+  ~ wait it's all spaghetti code? ~
+```
+
+```
+       \|/ ____ \|/
+        @~/ ,. \~@
+       /_(  \__/ )_\
+          \__U_/
+
+  ~ this meeting could have ~
+   ~ been a slack message    ~
+```
+
+```
+    ,___,       ,___,
+    [O.o]       [o.O]
+    /)__)       (__(\ 
+    -"--"-     -"--"-
+
+  ~ code review be like: ~
+   ~ "looks good to me"  ~
+   ~ (didn't read it)    ~
+```
+
+```
+   _____
+  |     |
+  | | | |
+  |_____|
+  ||   ||
+  ||   ||
+ _||___||_
+|  JENGA  |
+| .------.|
+| |      ||
+| '------'|
+|__________|
+
+  ~ production architecture ~
+```
+
+```
+  +---------+
+  | > panic |   no
+  +---------+ ---->  is it
+       |             friday?
+       v               |
+    PANIC           yes |
+       |               v
+       v          are you
+    PANIC         deploying?
+       |              |
+       v          yes |
+    HARDER            v
+                   LMAO
+
+  ~ the incident flowchart ~
+```
+
+```
+    _    _    _    _
+   | |  | |  | |  | |
+   | |  | |  | |  | |
+   | |  | |  | |  | |
+   |_|  |_|  |_|  |_|
+
+   n    o    d    e
+   _                 _
+  | |  modules      | |
+  |_|  ___________  |_|
+      |           |
+      | 847 GB    |
+      |___________|
+
+  ~ it's not heavy it's ~
+   ~ well-architected    ~
+```
+
+```
+    (  )(  )(  )
+     )(  )(  )(
+    (  )(  )(  )
+
+    MICROSERVICES:
+
+    (  )
+     )(
+    (  )
+
+    oh wait that's just
+    a monolith with HTTP
+
+  ~ distributed monolith ~
+```
+
+```
+   Year 1: "move fast break things"
+   Year 2: "ok stop breaking things"
+   Year 3: "who built this"
+   Year 4: "we need a rewrite"
+   Year 5: "move fast break things"
+
+        (   )
+       (    )
+      (   )   <-- the cycle
+       (  )
+        ()
+
+  ~ the circle of tech debt ~
+```
+
+```
+      ___________
+     /           \
+    /  PROD IS    \
+   |   DOWN BUT   |
+   |   MY LOCAL   |
+   |   WORKS FINE |
+    \             /
+     \___________/
+          ||
+          ||
+     _____|_____
+    |           |
+    |  LAPTOP   |
+    |___________|
+
+  ~ certified localhost engineer ~
+```
+
+```
+        _
+       | |
+       | |===( )   //////
+       |_|   |||  | o o|
+              ||| ( c  )                  ____
+              |||  \ = /                 ||   \_
+              ||||||||||                 ||     |
+              ||||||||||                 ||     |
+              ||||||||||              __ ||     |__
+             |   |    |             |___||________|
+             |   |    |_____________|
+             |___|    |             |
+                      |_____________|
+
+  ~ me explaining my PR to the team ~
+```
+
+```
+   ____________________
+  |                    |
+  |  GIT BLAME         |
+  |                    |
+  |  oh no             |
+  |  it was me         |
+  |  it was always me  |
+  |____________________|
+
+  ~ the call is coming from ~
+   ~ inside the house        ~
+```
