@@ -1,0 +1,12 @@
+{
+  "name": "clauscii",
+  "description": "Cute ASCII art & animations for Claude Code. Brightens every session with a random piece of art on startup.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pywoo2"
+  },
+  "skills": [
+    "./skills/startup-art",
+    "./skills/art"
+  ]
+}
