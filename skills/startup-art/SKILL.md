@@ -261,3 +261,210 @@ Rules:
 
           ~ 1UP ~
 ```
+
+```
+          ___
+         (.· |
+         (<> |
+        / __  \
+       ( /  \ /|
+      _/\ __)/_)
+      \/-____\/
+
+  ~ i use arch btw ~
+```
+
+```
+       \\        /
+        \\      /
+         \\    /
+          \\  /
+           \\/
+       _.__._
+      |       |
+      | VIM   |
+      |       |
+      |_______|
+   :wq? :q!? ^C??
+
+  ~ how do i exit ~
+```
+
+```
+    ┌──────────────────────┐
+    │ $ sudo rm -rf /      │
+    │ Password:             │
+    │ ...                   │
+    │                       │
+    │  just kidding. relax. │
+    └──────────────────────┘
+
+      ~ you didn't flinch ~
+       ~ ...right?        ~
+```
+
+```
+ ┌─────────────────────────┐
+ │  SEGMENTATION FAULT     │
+ │                         │
+ │  your code was perfect  │
+ │  the universe just      │
+ │  wasn't ready for it    │
+ │                         │
+ │     [  OK  ]            │
+ └─────────────────────────┘
+
+    ~ core dumped with love ~
+```
+
+```
+      _____
+     /     \
+    | () () |
+     \  ^  /
+      |||||
+      |||||
+
+   ~ it works on my machine ~
+```
+
+```
+    [=========>         ]  45%
+    Installing patience...
+
+    Estimated time: ∞
+
+    ~ have you tried turning ~
+     ~ it off and on again   ~
+```
+
+```
+    $ git push --force
+    remote: EVERYTHING IS FINE
+    remote: THIS IS FINE
+    remote:
+    remote:      (  .      )
+    remote:       )  (    .
+    remote:      . (    )  )
+    remote:      _________
+    remote:     |   THIS  |
+    remote:     | IS FINE |
+    remote:     |_________|
+
+    ~ no conflicts here ~
+```
+
+```
+              .
+             ":"
+           ___:____
+         ,'        `.
+        |  O        \
+        |            |
+         \          /
+          `.______.'
+            |    |
+       _____| {} |_____
+      /                 \
+     |   404 NOT FOUND   |
+      \_________________/
+
+      ~ the code is a lie ~
+```
+
+```
+     ,        ,
+    /(        )`
+    \ \___   / |
+    /- _  `-/  '
+   (/\/ \ \   /\
+   / /   | `    \
+   O O   ) /    |
+   `-^--'`<     '
+  (_.)  _  )   /
+   `.___/`    /
+     `-----' /
+<----.     __ / __   \
+<----|====O)))==)  ) /====
+<----'    `--' `.__,' \
+     |        |
+      \       /
+ ______( (_  / \______
+,'  ,-----'   |       \
+`--{__________)       \/
+
+      ~ en garde ~
+```
+
+```
+ ________________
+< mass deploying >
+ ----------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+   ~ moo-ve fast break things ~
+```
+
+```
+   ██████╗██╗      █████╗ ██╗   ██╗██████╗ ███████╗
+  ██╔════╝██║     ██╔══██╗██║   ██║██╔══██╗██╔════╝
+  ██║     ██║     ███████║██║   ██║██║  ██║█████╗
+  ██║     ██║     ██╔══██║██║   ██║██║  ██║██╔══╝
+  ╚██████╗███████╗██║  ██║╚██████╔╝██████╔╝███████╗
+   ╚═════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝
+
+       ~ let's build something ~
+```
+
+```
+ _____________________________________________
+|                                             |
+|  TERMS AND CONDITIONS                       |
+|                                             |
+|  1. code will have bugs                     |
+|  2. "quick fix" is never quick              |
+|  3. it's always a DNS problem               |
+|  4. the sprint will not go as planned       |
+|  5. friday deploys are forbidden            |
+|                                             |
+|        [ I AGREE ]  [ I ALSO AGREE ]        |
+|_____________________________________________|
+
+         ~ scroll to the bottom ~
+```
+
+```
+   ┌─────────────┐
+   │ 🔥 THIS IS  │
+   │   FINE 🔥   │
+   │  ┌───────┐  │
+   │  │ > _ < │  │
+   │  │  ---  │  │
+   │  │ /   \ │  │
+   │  └───────┘  │
+   │ prod: DOWN  │
+   │ pager: ON   │
+   └─────────────┘
+
+    ~ nothing to see here ~
+```
+
+```
+   TODAY'S mass_update SPONSORED BY:
+
+     ╔═══════════════════════════╗
+     ║                           ║
+     ║   STACK OVERFLOW          ║
+     ║   est. 2008               ║
+     ║                           ║
+     ║   "because mass_update    ║
+     ║    ain't writing itself"  ║
+     ║                           ║
+     ╚═══════════════════════════╝
+
+   ~ ctrl+c ctrl+v engineer ~
+```
