@@ -350,3 +350,16 @@ The blank lines INSIDE the code block before and after the art are critical — 
     |  coffee  ^   |
     |__________|___|
 ```
+
+```
+~ totoro totoro ~
+
+               _____
+              /     \
+              vvvvvvv  /|__/|
+                 I   /O,O   |
+                 I /______   |      /|/|
+                J|/^ ^ ^ \  |    /00  |    _//|
+                 |^ ^ ^ ^ |W|   |/^\ |   /oo |
+                  \m___m__|_|    \m_m_|   \mm_|
+```
