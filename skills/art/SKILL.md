@@ -6,18 +6,6 @@ argument-hint: "[animal or thing]"
 
 # Clauscii — Show Art
 
-Use the Bash tool to display a random art piece:
+Pick a random art piece from the startup-art gallery and display it in a code block.
 
-```bash
-cat "$(ls <plugin_dir>/art/*.txt | shuf -n1)"
-```
-
-Where `<plugin_dir>` is this plugin's install directory (parent of `skills/`).
-
-If the user asks for something specific (e.g. "show me a cat"), pick the closest match:
-
-```bash
-cat <plugin_dir>/art/<match>.txt
-```
-
-Available: pusheen, chonk-cat, sleepy-cat, corgi-butt, big-dino, baby-penguin, penguin-family, totoro, dancing-bear, rubber-duck, whale, fox, snail, owl, kirby, coffee, mushroom.
+If the user asks for something specific (e.g. "show me a cat"), pick the closest match from the startup-art gallery. If nothing matches, improvise something cute in the same style.
